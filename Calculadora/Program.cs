@@ -1,6 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-int menu,valor1,valor2 = -1;
+﻿int menu,valor1,valor2 = -1;
 Console.WriteLine("--- Calculadora --- \n");
 Console.WriteLine("--- Escolha as opcoes: --- \n");
 
